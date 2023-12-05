@@ -95,7 +95,9 @@ grid.arrange(plot1, plot2, ncol=2)
 
 ```
 
-4.  This has been committed to the forked repo
+4.  This has been committed to the forked repo, with this image showing the change made
+   <img width="580" alt="Screenshot 2023-12-05 at 15 12 17" src="https://github.com/anonymous-student1/reproducible-research_homework/assets/150151047/d390dc2e-99f1-47f8-9229-c6c57e7e25d3">
+
 
 ### Question 5
 
